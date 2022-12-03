@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dij-dom
-- 👀 I’m interested in sitting and coding
+- 👀 I’m interested in data.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on ML and AI projects.
 - 📫 How to reach me Feel free to mail me..dijin1906@gmail.com
