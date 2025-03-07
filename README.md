@@ -29,3 +29,9 @@ I am **Dijin Dominic**, a passionate **Data Scientist** with an **MSc in Data Sc
 - **Student Exam Performance Prediction:** Built an end-to-end ML pipeline to predict student exam scores, optimizing accuracy through data preprocessing, feature engineering, and model comparison.
 - **Third Eye:** Campus-wide **object detection system** using **YOLOv8** for real-time tracking of students and  smart parking management for vehicles.
 - **Brain MRI Classification:** Deep learning-based **brain tumor detection** using CNN and **Topological Data Analysis (TDA)** A research based study made to evluate the performance of current performing CNN models and incooperate the strucutal extraction capability of TDA.
+
+💡 *I am actively looking for an opportunity to join a team of data scientists where I can contribute, grow, and continuously expand my knowledge in the field of data science.* If you think I’d be a great fit for your team, feel free to connect!  
+
+📫 **Contact Me:**  
+- LinkedIn: [linkedin.com/in/dijin-dominic](https://www.linkedin.com/in/dijin-dominic)  
+- Email: [dijin106@gmail.com](mailto:your-email@example.com)  
