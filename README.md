@@ -14,7 +14,7 @@ I am **Dijin Dominic**, a passionate **Data Scientist** with an **MSc in Data Sc
 ## 💼 Experience
 
 ### **Data Science Intern | Health Vectors**
-📅 *[3 Months]*  
+📅 *[Current]*  
 - Developed **Machine learning Imputation models** for Biological Age Prediction.  
 - Analyzed **Medical Research Data** to derive insights and improve decision-making to find the best statistical model for imputation.
 
