@@ -4,7 +4,7 @@ I am **Dijin Dominic**, a passionate **Data Scientist** with an **MSc in Data Sc
 
 ## 🔧 Skills
 
-- **Programming:** Python, SQL, R, Research
+- **Programming:** Python, SQL, R, Java, MATLAB, .NET, C
 - **Machine Learning:** Supervised & Unsupervised Learning, Deep Learning, NLP
 - **Computer Vision:** YOLO, CNNs
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI(Familiar)
