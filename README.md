@@ -34,4 +34,4 @@ I am **Dijin Dominic**, a passionate **Data Scientist** with an **MSc in Data Sc
 
 📫 **Contact Me:**  
 - LinkedIn: [linkedin.com/in/dijin-dominic](https://www.linkedin.com/in/dijin-dominic)  
-- Email: [dijin106@gmail.com](mailto:your-email@example.com)  
+- Email: [dijin1906@gmail.com](mailto:your-email@example.com)  
