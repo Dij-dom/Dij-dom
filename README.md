@@ -1,6 +1,6 @@
 ## 🏆 About Me
 
-I am **Dijin Dominic**, a passionate **Data Scientist** with an **MSc in Data Science** and a **BSc in Computer Science, Mathematics and Physics**. My expertise includes **Machine learning, Computer vision, NLP, and data analytics**. I have experience working on projects in various domains, including **Health Care and E-Commerce. I am actively looking for an opportunity to join a team of data scientists where I can contribute, grow, and continuously expand my knowledge in the field of data science.* If you think I’d be a great fit for your team, feel free to connect! . **.
+I am **Dijin Dominic**, a passionate **Data Scientist** with an **MSc in Data Science** and a **BSc in Computer Science, Mathematics and Physics**. My expertise includes **Machine learning, Computer vision, NLP, and data analytics**. I have experience working on projects in various domains, including **Health Care and E-Commerce. I am actively looking for an opportunity to join a team of data scientists where I can contribute, grow, and continuously expand my knowledge in the field of data science.**If you think I’d be a great fit for your team, feel free to connect!.**.
 
 ## 🔧 Skills
 
