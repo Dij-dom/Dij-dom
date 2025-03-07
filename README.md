@@ -1,6 +1,6 @@
 ## 🏆 About Me
 
-I am **Dijin Dominic**, a passionate **Data Scientist** with an **MSc in Data Science** and a **BSc in Computer Science, Mathematics and Physics**. My expertise includes **Machine learning, Computer vision, NLP, and data analytics**. I have experience working on projects in various domains, including **Health Care and E-Commerce**.
+I am **Dijin Dominic**, a passionate **Data Scientist** with an **MSc in Data Science** and a **BSc in Computer Science, Mathematics and Physics**. My expertise includes **Machine learning, Computer vision, NLP, and data analytics**. I have experience working on projects in various domains, including **Health Care and E-Commerce. I am actively looking for an opportunity to join a team of data scientists where I can contribute, grow, and continuously expand my knowledge in the field of data science.* If you think I’d be a great fit for your team, feel free to connect! . **.
 
 ## 🔧 Skills
 
@@ -30,7 +30,6 @@ I am **Dijin Dominic**, a passionate **Data Scientist** with an **MSc in Data Sc
 - **Third Eye:** Campus-wide **object detection system** using **YOLOv8** for real-time tracking of students and  smart parking management for vehicles.
 - **Brain MRI Classification:** Deep learning-based **brain tumor detection** using CNN and **Topological Data Analysis (TDA)** A research based study made to evluate the performance of current performing CNN models and incooperate the strucutal extraction capability of TDA.
 
-💡 *I am actively looking for an opportunity to join a team of data scientists where I can contribute, grow, and continuously expand my knowledge in the field of data science.* If you think I’d be a great fit for your team, feel free to connect!  
 
 📫 **Contact Me:**  
 - LinkedIn: [linkedin.com/in/dijin-dominic](https://www.linkedin.com/in/dijin-dominic)  
