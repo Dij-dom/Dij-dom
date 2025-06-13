@@ -13,10 +13,11 @@ I am **Dijin Dominic**, a passionate **AI Engineer** with an **MSc in Data Scien
 
 ## 💼 Experience
 
-### **Data Science Intern | Health Vectors**
+### **AI Engineer | Health Vectors**
 📅 *[Current]*  
 - Developed **Machine learning Imputation models** for Biological Age Prediction.  
 - Analyzed **Medical Research Data** to derive insights and improve decision-making to find the best statistical model for imputation.
+- Building a NLP based framework for effective analysis of radiology impressions.
 
 ### **Data Science Intern | Indian Council of Medical Research (ICMR)**
 📅 *[2 Months]*  
