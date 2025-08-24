@@ -1,37 +1,9 @@
-## 🏆 About Me
+# 👋 Hi, I'm Dijin Dominic  
 
-I am **Dijin Dominic**, a passionate **AI Engineer** with an **MSc in Data Science** and a **BSc in Computer Science, Mathematics and Physics**. My expertise includes **Modelling, NLP, Computer vision, Data analytics and Visualization**. I have experience working on projects in various domains, including **Health Care and E-Commerce. I am actively looking for an opportunity to join a team of data scientists where I can contribute, grow, and continuously expand my knowledge in the field of data science.*If you think I’d be a great fit for your team, feel free to connect!.*.
+I’m an **AI Engineer** with a background of **MSc in Data Science** and a **BSc in Computer Science, Mathematics & Physics**.  
+Passionate about **Gen-AI, Computer Vision** applications in **Healthcare & Finance Domain**.  
 
-## 🔧 Skills
+---
 
-- **Programming:** Python, SQL, R, Java, MATLAB, .NET, C
-- **Machine Learning:** Supervised & Unsupervised Learning, Deep Learning, NLP
-- **Computer Vision:** YOLO, CNNs
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI(Familiar)
-- **Tools & Frameworks:** Scikit-learn, TensorFlow, PyTorch, Streamlit
-- **Databases:** MySQL
-
-## 💼 Experience
-
-### **AI Engineer | Health Vectors**
-📅 *[Current]*  
-- Developed **Machine learning Imputation models** for Biological Age Prediction.  
-- Analyzed **Medical Research Data** to derive insights and improve decision-making to find the best statistical model for imputation.
-- Building a NLP based framework for effective analysis of radiology impressions.
-
-### **Data Science Intern | Indian Council of Medical Research (ICMR)**
-📅 *[2 Months]*  
-- Developed **machine learning models** for healthcare analytics.  
-- Analyzed **medical research data** to derive insights and improve decision-making.
-
-## 📂 Projects
-
-- **Kindle Amazon Sentimental Analysis:** Classify Amazon Kindle store book reviews as positive or negative based on their ratings. Performed data preprocessing, including handling missing values, text cleaning, and implemented text vectorization techniques followed by model training and evaluation.
-- **Student Exam Performance Prediction:** Built an end-to-end ML pipeline to predict student exam scores, optimizing accuracy through data preprocessing, feature engineering, and model comparison.
-- **Third Eye:** Campus-wide **object detection system** using **YOLOv8** for real-time tracking of students and  smart parking management for vehicles.
-- **Brain MRI Classification:** Deep learning-based **brain tumor detection** using CNN and **Topological Data Analysis (TDA)** A research based study made to evluate the performance of current performing CNN models and incooperate the strucutal extraction capability of TDA.
-
-
-📫 **Contact Me:**  
-- LinkedIn: [linkedin.com/in/dijin-dominic](https://www.linkedin.com/in/dijin-dominic)  
-- Email: [dijin1906@gmail.com](mailto:your-email@example.com)  
+📫 **Let’s Connect:**  
+[LinkedIn](https://www.linkedin.com/in/dijin-dominic) | [Email](mailto:dijin1906@gmail.com)  
