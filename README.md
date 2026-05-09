@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Dijin Dominic  
 
-I’m an **AI Engineer** with a background of **MSc in Data Science** and a **BSc in Computer Science, Mathematics & Physics**.  
-Passionate about **Gen-AI, Computer Vision** applications in **Healthcare & Finance Domain**.  
+Building production LLM systems for healthcare.
 
----
+**Current:** AI Engineer @ Health Vectors — radiology clinical decision support + medical lab standardization  
+**Stack:** LangChain · FAISS · FastAPI · Open source LLMS · Langfuse · Docker 
+**Niche:** Healthcare AI · Hybrid LLM architectures · Zero-hallucination clinical systems
 
 📫 **Let’s Connect:**  
-[LinkedIn](https://www.linkedin.com/in/dijin-dominic) | [Email](mailto:dijin1906@gmail.com)  
+📝 [Medium](https://medium.com/@dijdomv01) · 🤗 [HuggingFace](https://huggingface.co/dSQR) · 💼 [LinkedIn](https://linkedin.com/in/dijin-dominic)
+ 
